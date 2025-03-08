@@ -1,0 +1,1 @@
+website that changes colors in accordance with what range of numbers is entered. It also changes colors based on a random number button. website livelink here: https://sshz1234.github.io/story-project-website/color%20changing/index.html 
